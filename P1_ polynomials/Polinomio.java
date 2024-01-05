@@ -3,7 +3,6 @@ import java.lang.Math;
 /**
  * Clase que representa distintas operaciones con polinomios
  * @author: Alejandro David Arzola Saavedra
- * @date : 11/10/2021
  */
 public class Polinomio {
     
