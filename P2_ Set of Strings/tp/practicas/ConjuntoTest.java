@@ -3,7 +3,6 @@ import org.junit.*;
 import static org.junit.Assert.*;
 /**
  * Clase de test unitarios para comprobar la clase ConjuntoDeStrings
- * @date : 30/10/2021
  */
 public class ConjuntoTest{
     
