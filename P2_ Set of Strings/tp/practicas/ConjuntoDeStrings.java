@@ -3,7 +3,6 @@ import java.lang.Math;
 import java.util.Arrays;
 /**
  * Clase que representa operaciones con conjuntos de Strings
- * @date : 30/10/2021
  */
 public class ConjuntoDeStrings {
 
