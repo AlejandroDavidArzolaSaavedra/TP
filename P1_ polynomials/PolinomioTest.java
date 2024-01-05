@@ -3,7 +3,6 @@ import static org.junit.Assert.*;
 /**
  * Clase que prueba el funcionamiento de la clase Polinomio
  * @author: Alejandro David Arzola Saavedra
- * @date : 11/10/2021
  */
 public class PolinomioTest {
    
