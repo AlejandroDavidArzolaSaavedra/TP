@@ -1,8 +1,7 @@
 package tp.practicas;
 /**
  * Clase que representa los valores iniciales de la aplicacion
- * @author APS, APL, ADAS
- * @date 19/02/2021
+ * @author: Alejandro David Arzola Saavedra
  */
 public class InitialData {
     static void init(OfferedCourses offeredCourses, EnrolledStudents enrolledStudents) {
