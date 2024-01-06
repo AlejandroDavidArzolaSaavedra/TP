@@ -32,6 +32,17 @@ This activity dives into object-oriented programming principles, including inher
 - **Class Person:** Represents individual contacts with a name and phone number.
 - **Class Group:** Represents a collection of contacts and supports various operations like membership check, addition, removal, and listing contacts.
 
+## Practice 4: College Management (Part 1) 🎓
+
+This section involves the development of classes for managing an educational institution, including subjects, students, and course enrollment.
+
+### Key Classes:
+- **Course:** Represents a subject with methods for retrieving its code and name.
+- **Student:** Represents a student with methods for retrieving their identifier, name, enrolled courses, and more.
+- **EnrolledStudents:** Manages the set of students enrolled in the educational institution.
+- **OfferedCourses:** Manages the set of subjects offered by the educational institution.
+- **College:** Main class for creating objects and using the operations of the developed classes.
+
 ## Usage and Testing 🧪
 
 Each practice includes instructions for creating a main program and optional testing classes. Executing the test classes using JUnit ensures the correct implementation of the developed classes.
