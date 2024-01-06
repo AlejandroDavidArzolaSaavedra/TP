@@ -43,6 +43,21 @@ This section involves the development of classes for managing an educational ins
 - **OfferedCourses:** Manages the set of subjects offered by the educational institution.
 - **College:** Main class for creating objects and using the operations of the developed classes.
 
+## Practice 4: College Management (Part 2) 🎓
+
+This part continues the development of an educational institution management application with a graphical interface. It includes creating students, enrolling them in courses, and updating the user interface based on these actions.
+
+<p align="center">
+  <img width="700px" src="https://github.com/AlejandroDavidArzolaSaavedra/TP/assets/90756437/1906fefe-1d91-426c-b84b-432667ae6812">
+</p>
+
+### Key Requirements:
+1. Update the order of the student list based on the selection in the user interface.
+2. Create a new student through a dialog triggered by the corresponding button or menu option.
+3. Enroll a student in a subject through a dialog triggered by the corresponding button or menu option.
+4. Ensure the aesthetics resemble the provided figures.
+
+
 ## Usage and Testing 🧪
 
 Each practice includes instructions for creating a main program and optional testing classes. Executing the test classes using JUnit ensures the correct implementation of the developed classes.
