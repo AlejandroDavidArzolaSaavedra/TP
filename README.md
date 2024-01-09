@@ -1,5 +1,10 @@
 <h1 align="center">Integrated Practice Project: Java Programming 🚀</h1>
 
+<p align="center">
+  <img width="400px" src="https://github.com/AlejandroDavidArzolaSaavedra/TP/assets/90756437/3be47161-954e-4407-8fb0-b619983c59a2">
+</p>
+
+
 ## Practice 1: Polynomial Manipulation 📚
 
 The goal of this activity is to enhance Java programming skills by working with classes, methods, constructors, and arrays. The task involves creating a class, **Polinomio**, for polynomial manipulation.
@@ -60,8 +65,5 @@ This part continues the development of an educational institution management app
 
 ## Usage and Testing 🧪
 
-Each practice includes instructions for creating a main program and optional testing classes. Executing the test classes using JUnit ensures the correct implementation of the developed classes.
-
-**Note:** Ensure that the classes are organized in the "tp.practicas" package for proper execution.
-
-Feel free to explore and extend the functionality of these classes to further hone your Java programming skills! 🌟
+<img align="left" width="200" height="200" src="https://raw.githubusercontent.com/AlejandroDavidArzolaSaavedra/AlejandroDavidArzolaSaavedra/main/octoSpiritual.png"></a>
+Each practice includes instructions for creating a main program and optional testing classes. Executing the test classes using JUnit ensures the correct implementation of the developed classes. Feel free to explore and extend the functionality of these classes to further hone your Java programming skills! 🌟
