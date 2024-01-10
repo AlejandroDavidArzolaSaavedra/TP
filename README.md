@@ -4,6 +4,8 @@
   <img width="400px" src="https://github.com/AlejandroDavidArzolaSaavedra/TP/assets/90756437/3be47161-954e-4407-8fb0-b619983c59a2">
 </p>
 
+This comprehensive set of exercises is designed to enhance your Java programming skills by providing hands-on experience in various aspects of object-oriented programming.💻✨
+
 ## Table of Contents
 
 1. [Practice 1: Polynomial Manipulation](#practice-1-polynomial-manipulation)
