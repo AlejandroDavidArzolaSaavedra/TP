@@ -1,10 +1,15 @@
-<h1 align="center">Integrated Practice Project: Java Programming 🚀</h1>
+<h1 align="center">Practice Projects: Java Programming 🚀</h1>
 
 <p align="center">
   <img width="400px" src="https://github.com/AlejandroDavidArzolaSaavedra/TP/assets/90756437/3be47161-954e-4407-8fb0-b619983c59a2">
 </p>
 
 This comprehensive set of exercises is designed to enhance your Java programming skills by providing hands-on experience in various aspects of object-oriented programming.💻✨
+
+## 🙆👨‍💻 Author (Ctrl + Click to view profiles)
+This project has been developed by:
+
+[![GitHub](https://img.shields.io/badge/GitHub-Alejandro%20David%20Arzola%20Saavedra-red?style=flat-square&logo=github)](https://github.com/AlejandroDavidArzolaSaavedra)
 
 ## Table of Contents
 
