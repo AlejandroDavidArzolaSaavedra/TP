@@ -1,7 +1,7 @@
 <h1 align="center">Practice Projects: Java Programming 🚀</h1>
 
 <p align="center">
-  <img width="400px" src="https://github.com/AlejandroDavidArzolaSaavedra/TP/assets/90756437/3be47161-954e-4407-8fb0-b619983c59a2">
+  <img width="400px" src="https://github.com/AlejandroDavidArzolaSaavedra/TP/assets/90756437/9fc86b69-8fb5-40b0-8411-681e9aa71d7b">
 </p>
 
 This comprehensive set of exercises is designed to enhance your Java programming skills by providing hands-on experience in various aspects of object-oriented programming.💻✨
