@@ -1,18 +1,18 @@
 # WIP (WORK IN PROGRESS) 
-# Concurrent Text File Statistics
+# Concurrent Text File Statistics 📊📄
 
 ## Practice 5: Concurrent Text File Statistics
-### Type: Team Practice
-### Evaluation: 20%
-### Educational Objectives
+### Type: Team Practice 🤝
+### Evaluation: 20% 📈
+### Educational Objectives 🎓
 The objective of this activity is to practice the use of Concurrent Programming features in Java.
 
-### Assignment
+### Assignment 📝
 Develop a Java system that concurrently processes sets of text files. The goal of the system is to process a given set of files, analyze them, and obtain a list of the 10 most frequent words, sorted by frequency in descending order.
 
-### Processing Most Frequent Words
+### Processing Most Frequent Words 🔄
 
-#### General Structure
+#### General Structure 🏗️
 The text files to be processed, containing plain text, are located in the 'data' directory of the current user's HOME directory.
 
 The system performs the following actions:
@@ -21,6 +21,7 @@ The system performs the following actions:
 2. Multiple threads of the `FileReader` class sequentially retrieve file names from a `FileNames` object and read the corresponding files, adding their content to an object of the `FileContents` class.
 3. Multiple threads of the `FileProcessor` class sequentially read the content of the files from a `FileContents` object, process it by separating words and counting their frequency, updating the result on a common "counter" in the `WordFrequencies` class.
 4. The top 10 most frequent words are sorted and selected based on a `WordFrequencies` object (implemented in `Tools.wordSelector()`).
+
 <p align="center">
   <img width="500px" src="https://github.com/AlejandroDavidArzolaSaavedra/TP/assets/90756437/5d0097b6-a3c1-460c-88ac-865dbc4772d7">
 </p>
@@ -79,4 +80,4 @@ The 10 most frequent words and their frequencies in the supplied files are:
 7. "en" - 11,587
 8. "no" - 7,573
 9. "se" - 7,271
-10. "los" - 6,994
+10. "los" - 6,994 🚀
