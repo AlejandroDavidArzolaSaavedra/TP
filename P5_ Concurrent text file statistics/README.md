@@ -1,5 +1,5 @@
 # WIP (WORK IN PROGRESS) 
-# Concurrent Text File Statistics 📊📄
+<h1 align="center">Concurrent Text File Statistics 📊📄</h1>
 
 ## Practice 5: Concurrent Text File Statistics
 ### Type: Team Practice 🤝
