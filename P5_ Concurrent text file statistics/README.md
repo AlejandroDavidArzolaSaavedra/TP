@@ -1,10 +1,6 @@
 # WIP (WORK IN PROGRESS) 
 <h1 align="center">Concurrent Text File Statistics 📊📄</h1>
 
-## Practice 5: Concurrent Text File Statistics
-### Type: Team Practice 🤝
-### Evaluation: 20% 📈
-### Educational Objectives 🎓
 The objective of this activity is to practice the use of Concurrent Programming features in Java.
 
 ### Assignment 📝
