@@ -6,9 +6,6 @@
 
 <h1 align="center">Concurrent Text File Statistics 📊📄</h1>
 
-The objective of this activity is to practice the use of Concurrent Programming features in Java.
-
-### Assignment 📝
 Develop a Java system that concurrently processes sets of text files. The goal of the system is to process a given set of files, analyze them, and obtain a list of the 10 most frequent words, sorted by frequency in descending order.
 
 ### Processing Most Frequent Words 🔄
