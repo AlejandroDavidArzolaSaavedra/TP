@@ -1,7 +1,7 @@
 # WIP (WORK IN PROGRESS) 
 
 <p align="center">
-  <img width="500px" src="https://github.com/AlejandroDavidArzolaSaavedra/TP/assets/90756437/d6a87239-4d19-4c9a-9dbe-fc49d809833b">
+  <img width="100px" src="https://github.com/AlejandroDavidArzolaSaavedra/TP/assets/90756437/d6a87239-4d19-4c9a-9dbe-fc49d809833b">
 </p>
 
 <h1 align="center">Concurrent Text File Statistics 📊📄</h1>
